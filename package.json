@@ -1,6 +1,6 @@
 {
-    "name"            : "Z Query String Parser",
-    "description"     : "querystring parser",
+    "name"            : "zqs",
+    "description"     : "Z Query String Parser",
     "maintainers"     : "Alexander Palchikov <zig@ikalogs.ru>",
     "homepage"        : "https://github.com/felixge/node-dateformat",
     "author"          : {
