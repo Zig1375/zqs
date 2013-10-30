@@ -2,7 +2,7 @@
     "name"            : "zqs",
     "description"     : "Z Query String Parser",
     "maintainers"     : "Alexander Palchikov <zig@ikalogs.ru>",
-    "homepage"        : "https://github.com/felixge/node-dateformat",
+    "homepage"        : "https://github.com/Zig1375/zqs.git",
     "author"          : {
         "name" : "Alexander Palchikov"
     },

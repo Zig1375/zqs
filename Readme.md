@@ -9,7 +9,7 @@
 ## Examples
 
 ```js
-var zqs = require('./');
+var zqs = require('zqs');
 
 zqs.parse('a=1&b=2&c[]=2&c[4]=5&c[a]=sd');
    {
